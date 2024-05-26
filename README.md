@@ -14,6 +14,8 @@
 
 微信公众号：[自在废物][2]
 
+社区：[仰止](https://talk.wowow.club)
+
 ### 卡片
 
 [![Rabithua's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabithua&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
