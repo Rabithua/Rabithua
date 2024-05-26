@@ -16,6 +16,11 @@
 
 社区：[仰止](https://talk.wowow.club)
 
+### 标签
+
+React / vue / Typescript / scss / tailwindcss / Nodejs / express / mongodb / prisma / 服务器运维 / docker（镜像制作） / 独立开发者 / Js + html + css / 微信小程序原生开发（云开发使用） / Taro 多端开发 / figma UI设计 / 开源selfhost爱好者
+
+
 ### 卡片
 
 [![Rabithua's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabithua&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
