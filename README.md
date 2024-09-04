@@ -18,7 +18,7 @@
 
 数字名片：[Bonjour](https://bonjour.bio/rabithua)
 
-Rote笔记：[ROte](https://rote.ink/rabithua)
+Rote笔记：[Rote](https://rote.ink/rabithua)
 
 ### 标签
 
