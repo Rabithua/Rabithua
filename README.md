@@ -2,7 +2,7 @@
 
 称呼：于长野
 
-城市：杭州
+城市：杭州良渚
 
 邮箱：[rabit.hua@gmail.com][1]
 
@@ -14,13 +14,11 @@
 
 微信公众号：[自在废物][2]
 
-社区：[仰止](https://talk.wowow.club)
-
 数字名片：[Bonjour](https://bonjour.bio/rabithua)
 
 Rote笔记：[Rote](https://rote.ink/rabithua)
 
-### 标签
+### 标签（勉强会用）
 
 React / vue / Typescript / scss / tailwindcss / Nodejs / express / mongodb / prisma / 服务器运维 / docker（镜像制作） / 独立开发者 / Js + html + css / 微信小程序原生开发（云开发使用） / Taro 多端开发 / figma UI设计 / 开源selfhost爱好者
 
