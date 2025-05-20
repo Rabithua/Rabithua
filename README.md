@@ -18,9 +18,16 @@ Digital Business Card: [Bonjour](https://bonjour.bio/rabithua)
 
 Rote Notes: [Rote](https://rote.ink/rabithua)  
 
-### Tags (Moderately Proficient)  
+### Tech Stack  
 
-React / Vue / TypeScript / SCSS / TailwindCSS / Node.js / Express / MongoDB / Prisma / Server Maintenance / Docker (Image Creation) / Independent Developer / JS + HTML + CSS / WeChat Mini Program Native Development (Cloud Development) / Taro Multi-Platform Development / Figma UI Design / Open-Source Self-Host Enthusiast  
+#### Frontend  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)  
+
+#### Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Deno](https://img.shields.io/badge/-Deno-000000?logo=Deno&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)  
+
+#### DevOps & Tools  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![WeChat Mini Program](https://img.shields.io/badge/-WeChat_Mini_Program-07C160?logo=wechat&logoColor=white)   
 
 ### Card  
 
