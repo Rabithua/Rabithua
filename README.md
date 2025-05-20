@@ -1,33 +1,32 @@
-## 可公布的个人信息
+## Public Personal Information  
 
-称呼：于长野
+Name: Yu Changye  
 
-城市：杭州良渚
+City: Hangzhou, Liangzhu  
 
-邮箱：[rabit.hua@gmail.com][1]
+Email: [rabit.hua@gmail.com][1]  
 
-状态：swift 学习中...
+Status: Currently working in Bonjour
 
-### 哪里可以找到我
+### Where to Find Me  
 
-个人博客：[自在废物][4]
+Personal Blog: [Free Waste][4]  
 
-微信公众号：[自在废物][2]
+WeChat Official Account: [Free Waste][2]  
 
-数字名片：[Bonjour](https://bonjour.bio/rabithua)
+Digital Business Card: [Bonjour](https://bonjour.bio/rabithua)  
 
-Rote笔记：[Rote](https://rote.ink/rabithua)
+Rote Notes: [Rote](https://rote.ink/rabithua)  
 
-### 标签（勉强会用）
+### Tags (Moderately Proficient)  
 
-React / vue / Typescript / scss / tailwindcss / Nodejs / express / mongodb / prisma / 服务器运维 / docker（镜像制作） / 独立开发者 / Js + html + css / 微信小程序原生开发（云开发使用） / Taro 多端开发 / figma UI设计 / 开源selfhost爱好者
+React / Vue / TypeScript / SCSS / TailwindCSS / Node.js / Express / MongoDB / Prisma / Server Maintenance / Docker (Image Creation) / Independent Developer / JS + HTML + CSS / WeChat Mini Program Native Development (Cloud Development) / Taro Multi-Platform Development / Figma UI Design / Open-Source Self-Host Enthusiast  
 
+### Card  
 
-### 卡片
+[![Rabithua's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabithua&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Rabithua's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabithua&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-  [1]: mailto:rabit_hua@qq.com
-  [2]: https://mp.weixin.qq.com/s/1M_HFFSFRMzAWpR2WF-sJA
-  [3]: https://weibo.com/u/5847542120
-  [4]: https://rabithua.club
+[1]: mailto:rabit_hua@qq.com  
+[2]: https://mp.weixin.qq.com/s/1M_HFFSFRMzAWpR2WF-sJA  
+[3]: https://weibo.com/u/5847542120  
+[4]: https://rabithua.club
