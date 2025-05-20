@@ -10,13 +10,7 @@ Status: Currently working in Bonjour
 
 ### Where to Find Me  
 
-Personal Blog: [Free Waste][4]  
-
-WeChat Official Account: [Free Waste][2]  
-
-Digital Business Card: [Bonjour](https://bonjour.bio/rabithua)  
-
-Rote Notes: [Rote](https://rote.ink/rabithua)  
+[Personal Blog][4] | [Bonjour](https://bonjour.bio/rabithua) | [Rote Notes](https://rote.ink/rabithua)  
 
 ### Tech Stack  
 
