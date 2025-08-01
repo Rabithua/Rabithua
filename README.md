@@ -26,7 +26,7 @@
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?logo=shadcnui&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?logo=githubcopilot&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
 
-> 也会做，不想承认自己是小程序开发熟手，但确实做了很多小程序，另外因为业务所需也学习了 Vue，很惭愧并非 Vue 大师，如果你找我做 uniapp 或者解盘旧项目，会有很大概率被拒绝，除非给的很多（或者我穷的揭不开锅了
+> 也会做，不想承认自己是小程序开发熟手，但确实做了很多小程序，另外因为业务所需也学习了 Vue，很惭愧并非 Vue 大师，如果你找我做 uniapp 或者接盘旧项目，会有很大概率被拒绝，除非给的很多（或者我穷的揭不开锅了
 
 ![WeChat Mini Program](https://img.shields.io/badge/-WeChat_Mini_Program-07C160?logo=wechat&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![uni-app](https://img.shields.io/badge/-uni--app-2B2E42?logo=vuedotjs&logoColor=white)
 
