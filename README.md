@@ -14,7 +14,7 @@
 
 ## 兴致勃勃的想要尝试的工作
 
-![Photography](https://img.shields.io/badge/-📸_摄影-brightgreen?logoColor=white) ![Designer](https://img.shields.io/badge/-🧑‍🎨_设计师-brightgreen?logoColor=white) ![Chef](https://img.shields.io/badge/-🧑‍🍳厨师-brightgreen?logoColor=white)
+![Photography](https://img.shields.io/badge/-📸_摄影-brightgreen?logoColor=white) ![Designer](https://img.shields.io/badge/-🧑‍🎨_设计-brightgreen?logoColor=white) ![Chef](https://img.shields.io/badge/-🧑‍🍳厨师-brightgreen?logoColor=white)
 
 ## 技术栈
 
