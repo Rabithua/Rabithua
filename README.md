@@ -1,6 +1,6 @@
 # **Rabithua / 于长野**
 
-> 🌍: [English](README_EN.md) | 中文
+> [English](README_EN.md) | 中文
 
 居住地: 杭州 良渚
 
