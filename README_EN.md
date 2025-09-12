@@ -1,6 +1,6 @@
-# **Rabithua ｜ Yu Changye**
+# **Rabithua / Yu Changye**
 
-> 🌍 **Language** | **语言**: English | [中文](README.md)
+> 🌍: English | [中文](README.md)
 
 Location: Liangzhu, Hangzhou
 
