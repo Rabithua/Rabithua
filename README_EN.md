@@ -1,6 +1,6 @@
 # **Rabithua / Yu Changye**
 
-> 🌍: English | [中文](README.md)
+> English | [中文](README.md)
 
 Location: Liangzhu, Hangzhou
 
