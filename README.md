@@ -34,10 +34,6 @@
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
-### 奖状墙
-
-[![Rabithua's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabithua&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [1]: mailto:rabit_hua@qq.com
 [2]: https://mp.weixin.qq.com/s/1M_HFFSFRMzAWpR2WF-sJA
 [3]: https://weibo.com/u/5847542120
