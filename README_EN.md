@@ -10,7 +10,7 @@ Current Status: Burned out and left Bonjour, currently in a GAP year while searc
 
 ## Find Me
 
-[![Notes](https://img.shields.io/badge/-🌱_Notes-ffffff?logo=&logoColor=white)](https://rote.ink/rabithua) [![Bonjour](https://img.shields.io/badge/-👋_Bonjour-2072F3?logo=&logoColor=white)](https://bonjour.bio/rabithua) [![Twitter](https://img.shields.io/badge/-Twitter-000000?logo=x&logoColor=white)](https://x.com/rabithua) [![Old Blog](https://img.shields.io/badge/-Old_Blog-FF9F43?logo=rss&logoColor=white)][4]
+[![Notes](https://img.shields.io/badge/-🌱_Notes-ffffff?logo=&logoColor=white)](https://rote.ink/rabithua) [![Bonjour](https://img.shields.io/badge/-👋_Bonjour-2072F3?logo=&logoColor=white)](https://bonjour.bio/rabithua) [![Twitter](https://img.shields.io/badge/-Twitter-000000?logo=x&logoColor=white)](https://x.com/rabithua)
 
 ## Jobs I'm Excited to Try
 
