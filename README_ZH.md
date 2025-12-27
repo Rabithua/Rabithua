@@ -10,7 +10,7 @@
 
 ## 哪里可以找到我
 
-[![Notes](https://img.shields.io/badge/-🌱_Notes-ffffff?logo=&logoColor=white)](https://rote.ink/rabithua) [![Bonjour](https://img.shields.io/badge/-👋_Bonjour-2072F3?logo=&logoColor=white)](https://bonjour.bio/rabithua) [![Twitter](https://img.shields.io/badge/-Twitter-000000?logo=x&logoColor=white)](https://x.com/rabithua)
+[![Notes](https://img.shields.io/badge/-🌱_Notes-ffffff?logo=&logoColor=white)](https://rote.ink/rabithua) [![Twitter](https://img.shields.io/badge/-Twitter-000000?logo=x&logoColor=white)](https://x.com/rabithua)
 
 ## 兴致勃勃的想要尝试的工作
 
